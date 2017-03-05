@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\build\\intermediates\\res\\merged\\debug\\xml\\server.xml",
+        "source": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\src\\main\\res\\xml\\server.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\build\\intermediates\\res\\merged\\debug\\xml\\size.xml",
+        "source": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\src\\main\\res\\xml\\size.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting.xml",
+        "source": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\src\\main\\res\\xml\\setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\build\\intermediates\\res\\merged\\debug\\xml\\color.xml",
+        "source": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\src\\main\\res\\xml\\color.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\build\\intermediates\\res\\merged\\debug\\xml\\menu.xml",
+        "source": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\src\\main\\res\\xml\\menu.xml"
+    }
+]

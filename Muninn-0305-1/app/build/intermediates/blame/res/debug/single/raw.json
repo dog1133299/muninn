@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\build\\intermediates\\res\\merged\\debug\\raw\\emergency.mp3",
+        "source": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\src\\main\\res\\raw\\emergency.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ding.wav",
+        "source": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\src\\main\\res\\raw\\ding.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\build\\intermediates\\res\\merged\\debug\\raw\\complete.mp3",
+        "source": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\src\\main\\res\\raw\\complete.mp3"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\build\\intermediates\\res\\merged\\debug\\raw\\punch.wav",
+        "source": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\src\\main\\res\\raw\\punch.wav"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\build\\intermediates\\res\\merged\\debug\\raw\\click.mp3",
+        "source": "C:\\Users\\User\\Desktop\\Muninn-0305\\app\\src\\main\\res\\raw\\click.mp3"
+    }
+]
