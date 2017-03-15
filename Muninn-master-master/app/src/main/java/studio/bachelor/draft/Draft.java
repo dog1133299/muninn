@@ -38,6 +38,7 @@ public class Draft{
     public final ScaleLayer layer = new ScaleLayer(0, 0);
     public double scale = 1.0;
     private final List<Path> paths = new ArrayList<Path>();
+    private final List<Path> eraserPaths = new ArrayList<Path>();
     private Path currentPath = null;
     private double width = 1.0;
     private double height = 1.0;
@@ -190,8 +191,8 @@ public class Draft{
                 Node y_node = position_node.getChildNodes().item(1);
                 Double x = Double.parseDouble(x_node.getTextContent());
                 Double y = Double.parseDouble(y_node.getTextContent());
-                Double scale_x = x / (width / 2);
-                Double scale_y = y / (height / 2);
+                Double scale_x = x;// / (width / 2);
+                Double scale_y = y;// / (height / 2);
                 x_node.setTextContent(scale_x.toString());
                 y_node.setTextContent(scale_y.toString());
                 break;
